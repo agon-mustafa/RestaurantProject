@@ -1,0 +1,20 @@
+.header {
+    background-image: url(../images/home/headerBackground.jpg);
+}
+
+.section-one {
+    padding: 1em;
+}
+
+.tradition {
+    padding: 3em;
+    text-align: center;
+}
+
+.description-title {
+    margin: 1em 0;
+}
+
+.description-text {
+    margin-bottom: 1em;
+}
